@@ -7,13 +7,6 @@ FROM india_cancer_patients_age_group
 GROUP BY Cancer_Type, Status
 ORDER BY Cancer_Type, Status;
 SELECT 
-    Cancer_Type,
-    Status,
-    COUNT(*) AS Patient_Count
-FROM india_cancer_patients_age_group
-GROUP BY Cancer_Type, Status
-ORDER BY Cancer_Type, Status;
-SELECT 
     Stage,
     Status,
     COUNT(*) AS Patient_Count

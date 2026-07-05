@@ -25,28 +25,6 @@ Stomach Cancer,Deceased,6671
 
 (18 rows affected)
 
-Cancer_Type,Status,Patient_Count
-Breast Cancer,Alive,13458
-Breast Cancer,Deceased,14711
-Cervical Cancer,Alive,5107
-Cervical Cancer,Deceased,8774
-Colorectal Cancer,Alive,2610
-Colorectal Cancer,Deceased,5325
-Leukemia,Alive,1415
-Leukemia,Deceased,2655
-Lung Cancer,Alive,1520
-Lung Cancer,Deceased,10526
-Oral Cancer,Alive,6634
-Oral Cancer,Deceased,9625
-Ovarian Cancer,Alive,1415
-Ovarian Cancer,Deceased,2493
-Prostate Cancer,Alive,3012
-Prostate Cancer,Deceased,2797
-Stomach Cancer,Alive,1252
-Stomach Cancer,Deceased,6671
-
-(18 rows affected)
-
 Stage,Status,Patient_Count
 Stage I,Deceased,5507
 Stage I,Alive,9549

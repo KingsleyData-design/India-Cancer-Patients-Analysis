@@ -20,8 +20,7 @@ Analysis of 100,000 cancer patient records across India from 2022 to 2025. This 
 | Average Survival (Months) | 20.33 |
 | Most Common Cancer Type | Breast Cancer |
 | Cancer Types Covered | 9 |
-| Hospitals Covered | 12 |
-| States Covered | 12 |
+| Total hospitals | 10 |
 
 ## Key Insights
 - Breast Cancer is the most common diagnosis in this dataset, followed by Oral and Cervical Cancer.
@@ -31,8 +30,8 @@ Analysis of 100,000 cancer patient records across India from 2022 to 2025. This 
 - Adults (41–60) make up the largest age group, followed by Seniors (60+).
 
 ## Tools & Approach
-- **Excel:** Data cleaning, pivot tables, 7-chart dashboard. Age_Group column built with a nested IF formula
-- **Power BI:** Interactive 7 chart dashboard, using DAX measures for KPI cards
+- **Excel:** Data cleaning, pivot tables, chart dashboard. Age_Group column built with a nested IF formula
+- **Power BI:** Interactive chart dashboard, using DAX measures for KPI cards
 - **SQL (SSMS):** Queries matching each dashboard visual — cancer type, stage, treatment, hospital, and state breakdowns
 - **Python (Jupyter):** Same analysis using Pandas, Matplotlib, and Seaborn.
 
